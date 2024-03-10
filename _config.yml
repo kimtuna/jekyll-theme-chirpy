@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: 김동원 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: 안녕하세요. 당신이 아는 김동원 맞습니다. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -28,8 +28,8 @@ url: "https://github.com/kimtuna"
 github:
   username: kimtuna # change to your github username
 
-instagram:
-  username: kimtuna0624 # change to your twitter username
+#twitter:
+#  username: kimtuna0624 # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,11 +38,11 @@ social:
   email: kdw240@khu.ac.kr # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://www.instagram.com/kimtuna0624/ # change to your twitter homepage
+    #- https://www.instagram.com/kimtuna0624/ # change to your twitter homepage
     - https://github.com/kimtuna # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.instagram.com/kimtuna0624/
 
 google_site_verification: # fill in to your verification string
 
