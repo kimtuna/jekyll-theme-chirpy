@@ -1,8 +1,8 @@
 ---
-title: 자다깨서 작성하는 글2
+title: butch
 date: 2024-03-11 02:31:00 +0800
-categories: [일기]
-tags: [뭘봐]
+categories: [프로젝트 계획]
+tags: [butch]
 published: true
 pin: false
 ---
