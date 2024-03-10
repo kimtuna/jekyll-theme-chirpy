@@ -1,8 +1,8 @@
 ---
-title: 버치
-date: 2024-03-11 07:55:00 +0800
-categories: [프로젝트 계획]
-tags: [버치]
+title: 자다깨서 작성하는 글2
+date: 2024-03-11 02:31:00 +0800
+categories: [일기]
+tags: [뭘봐]
 published: true
 pin: false
 ---
