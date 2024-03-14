@@ -1,8 +1,8 @@
 ---
-title: 클컴 드롭박스
-date: 2024-03-14 11:32:00 +0800
+title: 감정을 분석해서 와인 추천
+date: 2024-03-12 02:31:00 +0800
 categories: [아이디어]
-tags: [드롭박스]
+tags: [wine recommand]
 published: true
 pin: false
 ---
