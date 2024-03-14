@@ -1,7 +1,7 @@
 ---
 title: 감정을 분석해서 와인 추천
-date: 2024-03-11 02:31:00 +0800
-categories: [프로젝트 계획]
+date: 2024-03-12 02:31:00 +0800
+categories: [아이디어]
 tags: [wine recommand]
 published: true
 pin: false
@@ -25,4 +25,8 @@ pin: false
 
 ## 4. 필요한거
 
-###### 1) ?
+###### 1) AWS rekognition
+
+###### 2) google stt(string to text)
+
+###### 3) open AI(gpt)
